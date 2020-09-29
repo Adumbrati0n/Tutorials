@@ -18,7 +18,7 @@ msfconsole
 
 After Metasploit starts, you will see the below screen. Highlighted in yellow is the version of Metasploit.
 
-![image-1](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/2cb2bc094e383b81bc08ed6d1bfaeae5-1.png "Image-1")
+![image-1](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/2cb2bc094e383b81bc08ed6d1bfaeae5-1.png "Image-1")
 
 * * *
 
@@ -32,15 +32,15 @@ msf > use exploit/unix/ftp/vsftpd_234_backdoor
 
 **Output**
 
-![image-2](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/2cb2bc094e383b81bc08ed6d1bfaeae5-2.png "Image-2")
+![image-2](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/2cb2bc094e383b81bc08ed6d1bfaeae5-2.png "Image-2")
 
 Then type "`msf > show options`" to see what parameters you have to set to make it functional. As shown in the following screenshot, we have to set **RHOST** as the "target IP".
 
-![image-3](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/2cb2bc094e383b81bc08ed6d1bfaeae5-3.png "Image-3")
+![image-3](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/2cb2bc094e383b81bc08ed6d1bfaeae5-3.png "Image-3")
 
 We type "`msf > set RHOST 192.168.1.101`" and "`msf > set RPORT 21`".
 
-![image-4](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/2cb2bc094e383b81bc08ed6d1bfaeae5-4.png "Image-4")
+![image-4](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/2cb2bc094e383b81bc08ed6d1bfaeae5-4.png "Image-4")
 
 Then, type "`msf > run`". If the exploit is successful, then it will open one session that you can interact with.
 

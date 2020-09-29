@@ -6,7 +6,7 @@ Some of them are open source while others are the commercial solution. Some are 
 
 ###### 1. NMAP
 
-![image-1](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-1.png "Image-1")
+![image-1](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-1.png "Image-1")
 
 [Nmap](https://nmap.org/) stands for Network Mapper. It is an open-source tool that is used widely for network discovery and security auditing. Nmap was originally designed to scan large networks, but it can work equally well for single hosts. Network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime.
 
@@ -23,7 +23,7 @@ Nmap runs on all major computer operating systems such as Windows, Mac OS X, and
 
 ###### 2. METASPLOIT
 
-![image-2](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-2.png "Image-2")
+![image-2](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-2.png "Image-2")
 
 Metasploit is one of the most powerful exploit tools. It’s a product of [Rapid7](https://www.rapid7.com/) and most of its resources can be found at [www.metasploit.com](https://metasploit.com/). It comes in two versions which are **commercial** and **free edition**. Metasploit can be used with the command prompt or with Web UI.
 
@@ -40,7 +40,7 @@ The Metasploit Project is a computer security project that provides information 
 
 ###### 3. BURPSUITE
 
-![image-3](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-3.png "Image-3")
+![image-3](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-3.png "Image-3")
 
 BurpSuite is a popular platform developed by [PortSwigger](https://portswigger.net/) that is widely used for performing security testing of web applications. It has various tools that work in collaboration to support the entire testing process, from initial mapping and analysis of an application's attack surface, through to finding and exploiting security vulnerabilities.
 
@@ -50,7 +50,7 @@ BurpSuite is a popular platform developed by [PortSwigger](https://portswigger.n
 
 ###### 4. ANGRY IP SCANNER
 
-![image-4](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-4.png "Image-4")
+![image-4](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-4.png "Image-4")
 
 [Angry IP Scanner](https://angryip.org/) is a lightweight, cross-platform IP address and port scanner. It can scan IP addresses in any range. It can be freely copied and used anywhere. To increase the scanning speed, it uses a multithreaded approach, wherein a separate scanning thread is created for each scanned IP address.
 
@@ -60,7 +60,7 @@ Angry IP Scanner simply pings each IP address to check if it’s alive, and then
 
 ###### 5. JOHN THE RIPPER
 
-![image-5](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-5.png "Image-5")
+![image-5](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-5.png "Image-5")
 
 [John the Ripper](https://www.openwall.com/john/) is a fast password cracker, currently available for many flavors of Unix, macOS, Windows, DOS, BeOS, and OpenVMS. Historically, its primary purpose is to detect weak Unix passwords. These days, besides many Unix crypt(3) password hash types, supported in "-jumbo" versions are hundreds of additional hashes and ciphers.
 
@@ -80,7 +80,7 @@ Initially developed for the Unix operating system John the Ripper now runs on fi
 
 ###### 6. ETTERCAP
 
-![image-6](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-6.png "Image-6")
+![image-6](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-6.png "Image-6")
 
 [Ettercap](https://www.ettercap-project.org) stands for Ethernet Capture. It is a network security tool for Man-in-the-Middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks. Ettercap has inbuilt features for network and host analysis. It supports active and passive dissection of many protocols.
 
@@ -104,7 +104,7 @@ Ettercap works by putting the network interface into promiscuous mode and by ARP
 
 ###### 7. WIRESHARK
 
-![image-7](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-7.png "Image-7")
+![image-7](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-7.png "Image-7")
 
 [WireShark](https://www.wireshark.org/) is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
 
@@ -129,7 +129,7 @@ Another important point it's [WireShark](https://www.wireshark.org/) is cross-pl
 
 ###### 8. AIRCRACK-NG
 
-![image-8](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-8.png "Image-8")
+![image-8](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-8.png "Image-8")
 
 [Aircrack-NG](https://www.aircrack-ng.org/) is a complete suite of tools to assess WiFi network security. All tools are command line which allows for heavy scripting. A lot of GUIs have taken advantage of this feature. Aircrack-NG works primarily Linux but also Windows, OS X, FreeBSD, OpenBSD, NetBSD, as well as Solaris and even eComStation 2.
 
@@ -146,7 +146,7 @@ Aircrack-ng is a network software suite consisting of a detector, packet sniffer
 
 ###### 9. NETSPARKER
 
-![image-9](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-9.png "Image-9")
+![image-9](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-9.png "Image-9")
 
 [NetSparker](https://www.netsparker.com) is a scalable, multi-user web application security solution with built-in workflow and reporting tools ideal for security teams. It’s available as a hosted and self-hosted solution and can be fully integrated with any development or testing environment.
 
@@ -168,7 +168,7 @@ Netsparker is an easy to use yet advanced web security solution that can easily 
 
 ###### 10. ACUNETIX
 
-![image-10](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-10.png "Image-10")
+![image-10](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-10.png "Image-10")
 
 [Acunetix](https://www.acunetix.com/) is a fully automated pen-testing solution that reproduces hacker vision and action to keep one step ahead of malicious intruders. The web application security scanner accurately scans HTML5, JavaScript and Single-page applications.
 
@@ -189,7 +189,7 @@ Furthermore, [Acunetix](https://www.acunetix.com/) can audit complex, authentica
 
 ###### 11. TOR BROWSER
 
-![image-11](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-11.png "Image-11")
+![image-11](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-11.png "Image-11")
 
 [Tor Browser](https://www.torproject.org/download/) is free and open-source software for enabling anonymous communication. The name is derived from an acronym for the original software project name "The Onion Router". **Tor** directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis.
 
@@ -203,7 +203,7 @@ Using [Tor Browser](https://www.torproject.org/download/) makes it more difficul
 
 ###### 12. HASHCAT
 
-![image-12](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-12.png "Image-12")
+![image-12](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-12.png "Image-12")
 
 [Hashcat](https://hashcat.net/hashcat/) is the self-proclaimed world's fastest password recovery tool. It had a proprietary code base until 2015 but is now released as open-source software. Versions are available for Linux, OS X, and Windows and can come in CPU-based or GPU-based variants. Examples of hashcat-supported hashing algorithms are Microsoft LM hashes, MD4, MD5, SHA-family, Unix Crypt formats, MySQL, and Cisco PIX.
 
@@ -232,7 +232,7 @@ Hashcat has made its way into the news many times for the optimizations and flaw
 
 ###### 13. ARACHNI
 
-![image-13](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-13.png "Image-13")
+![image-13](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-13.png "Image-13")
 
 [Arachni](https://www.arachni-scanner.com/) is a feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators evaluate the security of modern web applications.
 
@@ -254,7 +254,7 @@ It is versatile enough to cover a lot of use cases, ranging from a simple comman
 
 ###### 14. VEGA
 
-![image-14](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-14.png "Image-14")
+![image-14](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-14.png "Image-14")
 
 [Vega](https://subgraph.com/vega/) is a free and open-source web security scanner and web security testing platform to test the security of web applications. Vega can help you find and validate SQL Injection, Cross-Site Scripting (XSS), inadvertently disclosed sensitive information and other vulnerabilities. It is written in Java, GUI based and runs on Linux, OS X, and Windows.
 
@@ -270,7 +270,7 @@ Furthermore, [Vega](https://subgraph.com/vega/) can help you find vulnerabilitie
 
 ###### 15. KISMET
 
-![image-15](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-15.png "Image-15")
+![image-15](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-15.png "Image-15")
 
 [Kismet](https://www.kismetwireless.net) is a wireless network and device detector, sniffer, wardriving tool, and WIDS framework. Kismet works with Wi-Fi interfaces, Bluetooth interfaces, some SDR hardware like the RTLSDR, and other specialized capture hardware.
 
@@ -290,7 +290,7 @@ Kismet differs from other wireless network detectors in working passively. Namel
 
 ###### 16. OPENSSL
 
-![image-16](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-16.png "Image-16")
+![image-16](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-16.png "Image-16")
 
 [OpenSSL](https://www.openssl.org/) is a software library for applications that secure communications over computer networks against eavesdropping or need to identify the party at the other end. It is widely used by Internet servers, including the majority of HTTPS websites.
 
@@ -302,7 +302,7 @@ The OpenSSL Software Foundation (OSF) represents the OpenSSL project in most leg
 
 ###### 17. SNORT
 
-![image-17](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-17.png "Image-17")
+![image-17](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-17.png "Image-17")
 
 [Snort](https://www.snort.org) is a free open source network intrusion detection system (IDS) and intrusion prevention system (IPS) created in 1998 by Martin Roesch, founder and former CTO of Sourcefire. Snort is now developed by Cisco.
 
@@ -322,7 +322,7 @@ In sniffer mode, the program will read network packets and display them on the c
 
 ###### 18. NETCAT
 
-![image-18](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-18.png "Image-18")
+![image-18](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-18.png "Image-18")
 
 [Netcat](http://netcat.sourceforge.net/) is a featured networking utility which reads and writes data across network connections, using the TCP/IP protocol. It is designed to be a reliable "back-end" tool that can be used directly or easily driven by other programs and scripts.
 
@@ -340,7 +340,7 @@ At the same time, [Netcat](http://netcat.sourceforge.net/) it is a feature-rich 
 
 ###### 19. RAINBOWCRACK
 
-![image-19](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-19.png "Image-19")
+![image-19](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-19.png "Image-19")
 
 [RainbowCrack](http://project-rainbowcrack.com/) is a general propose implementation of Philippe Oechslin's faster time-memory trade-off technique. It cracks hashes with rainbow tables. RainbowCrack uses a time-memory tradeoff algorithm to crack hashes. It differs from brute force hash crackers.
 
@@ -366,7 +366,7 @@ GPU acceleration is another key feature of [RainbowCrack](http://project-rainbow
 
 ###### 20. NESSUS
 
-![image-20](https://raw.githubusercontent.com/cybsploit/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-20.png "Image-20")
+![image-20](https://raw.githubusercontent.com/neoslab/tutorials/master/medias/3f50658f30aaa5da86dae9acdaf0e4b6-20.png "Image-20")
 
 Nessus scans cover a wide range of technologies including operating systems, network devices, hypervisors, databases, web servers, and critical infrastructure. The results of the scan can be reported in various formats, such as plain text, XML, HTML, and LaTeX. The results can also be saved in a knowledge base for debugging. On UNIX, scanning can be automated through the use of a command-line client. There exist many different commercial, free and open-source tools for both UNIX and Windows to manage individual or distributed Nessus scanners.
 
