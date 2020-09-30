@@ -15,3 +15,7 @@
 - [What is a Buffer Overflow and How Hackers Exploit these Flaws part 3](https://github.com/neoslab/tutorials/blob/master/articles/21301488d1528d66211d9f24a88ba783.md)
 - [What is Footprinting and Website Reconnaissance](https://github.com/neoslab/tutorials/blob/master/articles/c7f9715eba13379c9c4a5972d6ab409e.md)
 - [Top Password Cracking Techniques used by Hackers](https://github.com/neoslab/tutorials/blob/master/articles/a5efb03c4c5e05f30239b09665cd87a8.md)
+- [4 Ways Hackers make Money using your Data or Credit Card](https://github.com/neoslab/tutorials/blob/master/articles/2106b2ca385594f3c5d8abc9ed51358c.md)
+- [The Most Useful Nmap Commands from Beginner to Advanced](https://github.com/neoslab/tutorials/blob/master/articles/9b85c5f874a849eea2846845786fa4f6.md)
+- [Top 50 Hacking Terms Used in Cyber Security](https://github.com/neoslab/tutorials/blob/master/articles/614993a3bd1b191098df1d2a11e2f8d8.md)
+- [Top 10 World's Most Notorious and Famous Hackers](https://github.com/neoslab/tutorials/blob/master/articles/f53b27694f66e7af34714b9ef8fcf515.md)
