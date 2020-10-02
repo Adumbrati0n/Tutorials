@@ -21,3 +21,6 @@
 - [Top 50 Hacking Terms Used in Cyber Security](https://github.com/neoslab/tutorials/blob/master/articles/614993a3bd1b191098df1d2a11e2f8d8.md)
 - [Top 10 World's Most Notorious and Famous Hackers](https://github.com/neoslab/tutorials/blob/master/articles/f53b27694f66e7af34714b9ef8fcf515.md)
 - [Sql Injection Tutorial from Beginner to Advanced](https://github.com/neoslab/tutorials/blob/master/articles/c35173d95616f6bd906dcd60d3955f2d.md)
+- [How to use WebXray to Identify Domains Collecting User Data](https://github.com/neoslab/tutorials/blob/master/articles/809c7872d029f0f8220895157291cf6b.md)
+- [Inject Arbitrary Code During MITM Attack using MITMf](https://github.com/neoslab/tutorials/blob/master/articles/65e868eb3d3249c6b0d2995bbfcecb5c.md)
+- [Identify Sensitive Information using Network Enumeration](https://github.com/neoslab/tutorials/blob/master/articles/fd225bbf834537e3ff36b1200533b71d.md)
