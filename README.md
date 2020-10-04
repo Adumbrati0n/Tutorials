@@ -24,3 +24,7 @@
 - [How to use WebXray to Identify Domains Collecting User Data](https://github.com/neoslab/tutorials/blob/master/articles/809c7872d029f0f8220895157291cf6b.md)
 - [Inject Arbitrary Code During MITM Attack using MITMf](https://github.com/neoslab/tutorials/blob/master/articles/65e868eb3d3249c6b0d2995bbfcecb5c.md)
 - [Identify Sensitive Information using Network Enumeration](https://github.com/neoslab/tutorials/blob/master/articles/fd225bbf834537e3ff36b1200533b71d.md)
+- [How to use Ping Sweeps to Scan Networks and Find Live Hosts](https://github.com/neoslab/tutorials/blob/master/articles/197e55f1aa528d8d45550ec7748409a9.md)
+- [How to use DNS Poisoning to Redirect Users to Fake Website](https://github.com/neoslab/tutorials/blob/master/articles/f60275e7b17d4a31fb016e6d14a5c41e.md)
+- [How to Install Metasploit and Armitage on Arch Linux](https://github.com/neoslab/tutorials/blob/master/articles/910913c9f7dbc5597f041d74de1e6319.md)
+- [How to do a Man in the Middle Attack using ARP Poisoning](https://github.com/neoslab/tutorials/blob/master/articles/7477333049898b59273a6b31fb92c7da.md)
