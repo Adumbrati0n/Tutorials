@@ -28,3 +28,5 @@
 - [How to use DNS Poisoning to Redirect Users to Fake Website](https://github.com/neoslab/tutorials/blob/master/articles/f60275e7b17d4a31fb016e6d14a5c41e.md)
 - [How to Install Metasploit and Armitage on Arch Linux](https://github.com/neoslab/tutorials/blob/master/articles/910913c9f7dbc5597f041d74de1e6319.md)
 - [How to do a Man in the Middle Attack using ARP Poisoning](https://github.com/neoslab/tutorials/blob/master/articles/7477333049898b59273a6b31fb92c7da.md)
+- [Evading Antivirus with Encrypted Payloads using Venom](https://github.com/neoslab/tutorials/blob/master/articles/8f927f9765083d67482a2632b6593671.md)
+- [Getting Started with Bettercap 2 on Ubuntu and other Derived Distros](https://github.com/neoslab/tutorials/blob/master/articles/78d50914fdca2ffe86a53c11065c7b02.md)
