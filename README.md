@@ -11,6 +11,7 @@
 - [Discover Hidden Subdomains of a given Domain using Dnsmap](https://github.com/neoslab/tutorials/blob/master/articles/15a317a0fc798f51b47f064f85453bd1.md)
 - [How Hackers Exploit Struts2 on Linux and Windows Servers](https://github.com/neoslab/tutorials/blob/master/articles/91adb637ea66b06fd12ead9da236a201.md)
 - [Port Scanning and OS Fingerprint from Beginner to Advanced](https://github.com/neoslab/tutorials/blob/master/articles/307867def063b2b26215fba0a64df4ca.md)
+- [Getting Started with Sqlmap for Pentest and Ethical Hacking](https://github.com/neoslab/tutorials/blob/master/articles/d09581a6380f6e2b685aef4f5d066eed.md)
 - [What is a Buffer Overflow and How Hackers Exploit these Flaws part 1](https://github.com/neoslab/tutorials/blob/master/articles/12089bda5ec9cb38858eb2184ceaa179.md)
 - [What is a Buffer Overflow and How Hackers Exploit these Flaws part 2](https://github.com/neoslab/tutorials/blob/master/articles/5afb15034ccc33d4750897090b47a57e.md)
 - [What is a Buffer Overflow and How Hackers Exploit these Flaws part 3](https://github.com/neoslab/tutorials/blob/master/articles/21301488d1528d66211d9f24a88ba783.md)
