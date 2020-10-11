@@ -31,3 +31,13 @@
 - [How to do a Man in the Middle Attack using ARP Poisoning](https://github.com/neoslab/tutorials/blob/master/articles/7477333049898b59273a6b31fb92c7da.md)
 - [Evading Antivirus with Encrypted Payloads using Venom](https://github.com/neoslab/tutorials/blob/master/articles/8f927f9765083d67482a2632b6593671.md)
 - [Getting Started with Bettercap 2 on Ubuntu and other Derived Distros](https://github.com/neoslab/tutorials/blob/master/articles/78d50914fdca2ffe86a53c11065c7b02.md)
+
+- [How to Create a Reverse Shell to Remotely Execute Commands](https://github.com/neoslab/tutorials/blob/master/articles/dbfb972acdd0c85c73b86011a4560421.md)
+- [How Hackers Exploit Bluekeep Vulnerability on Windows Servers](https://github.com/neoslab/tutorials/blob/master/articles/ef414d05cfbab3c223121f74b2a840d0.md)
+- [How to Create a Linux Botnet Step by Step with BYOB](https://github.com/neoslab/tutorials/blob/master/articles/475229c55e40e6c0653971a0c4501cdf.md)
+- [How to Find my IP Address using Command Line on Linux](https://github.com/neoslab/tutorials/blob/master/articles/09cedae4ca89ec7c04544e2a1dccdcab.md)
+- [How to Create a Web-Based Javascript Keylogger](https://github.com/neoslab/tutorials/blob/master/articles/9413d1b630dae0d9cf183e8276046447.md)
+- [How to Hide my IP Address using Torphantom](https://github.com/neoslab/tutorials/blob/master/articles/171de8b1895e2f4f794f95a0e9c1e138.md)
+- [How to Create a Keylogger for Linux using Python](https://github.com/neoslab/tutorials/blob/master/articles/bede86af28b5e86c89fb2666e0c5ed16.md)
+- [How to Install Arch Linux with LVM and LUKS Disk Encryption](https://github.com/neoslab/tutorials/blob/master/articles/a0a5b66544e6f6b07e0dd9fde48d1537.md)
+- [How to Generate a Payload for Metasploit](https://github.com/neoslab/tutorials/blob/master/articles/bcc450b81865a427047ecec5f9e07c42.md)
